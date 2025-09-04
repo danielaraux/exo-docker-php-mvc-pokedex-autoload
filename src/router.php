@@ -16,18 +16,20 @@ $page = $arrayUrl[0]; // je récupère l'index pour la page
 
 $id = $arrayUrl[1]; // je récupère l'id
 
-switch ($page) {
-    case 'home':
-        //code block
-        break;
-    case 'details':
-        //code block;
-        break;
+// switch ($page) {
+//     case 'home':
+//         require_once __DIR__ . '/pokedex/controllers/HomeController.php'
+//         $objController = 
+//         break;
+//     case 'details':
+//         require_once __DIR__ . '/pokedex/controllers/DetailsController.php'
+//         $objController = 
+//         break;
 
 
-    default:
+//     default:
         //code block
-}
+// }
 
 
 // Config router a faire, liens des sprites à rechanger avec ia, tester les liens

@@ -6,7 +6,7 @@
             "Plante",
             "Vol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/722.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
         "description": "Un oiseau calme qui recueille l'énergie du soleil pour remettre ses plumes en état."
     },
     {
@@ -16,7 +16,7 @@
             "Plante",
             "Vol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/723.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
         "description": "Il soigne ses plumes avec fierté et attaque en silence."
     },
     {
@@ -26,7 +26,7 @@
             "Plante",
             "Spectre"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/724.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
         "description": "Rapace mystérieux capable de passer inaperçu dans les ombres."
     },
     {
@@ -35,7 +35,7 @@
         "type": [
             "Feu"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/725.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
         "description": "Petit félin espiègle dont la queue s'enflamme en cas d'excitation."
     },
     {
@@ -44,7 +44,7 @@
         "type": [
             "Feu"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/726.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
         "description": "Réfléchi et mûr, il concentre son feu pour des attaques puissantes."
     },
     {
@@ -54,7 +54,7 @@
             "Feu",
             "Ténèbres"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/727.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
         "description": "Guerrier flamboyant capable de mêler feu et ombres."
     },
     {
@@ -63,7 +63,7 @@
         "type": [
             "Eau"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/728.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
         "description": "Otaria joyeuse, toujours prête à jouer dans l'eau."
     },
     {
@@ -72,7 +72,7 @@
         "type": [
             "Eau"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/729.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
         "description": "Gracieuse, elle aime chanter en nageant."
     },
     {
@@ -82,7 +82,7 @@
             "Eau",
             "Fée"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/730.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
         "description": "Séduisante, elle charme ses adversaires avec sa voix envoûtante."
     },
     {
@@ -92,7 +92,7 @@
             "Normal",
             "Vol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/731.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
         "description": "Curieux et agile, toujours en quête d'un insecte à attraper."
     },
     {
@@ -102,7 +102,7 @@
             "Normal",
             "Vol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/732.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
         "description": "Plus robuste, il attaque en frappant avec ses plumes."
     },
     {
@@ -112,7 +112,7 @@
             "Normal",
             "Vol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/733.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
         "description": "Oiseau puissant dont le cri résonne à grande distance."
     },
     {
@@ -121,7 +121,7 @@
         "type": [
             "Normal"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/734.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
         "description": "Petit mais glouton, toujours à la recherche de nourriture."
     },
     {
@@ -130,7 +130,7 @@
         "type": [
             "Normal"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/735.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
         "description": "Agile fouisseur, excellent pour piéger ses proies au sol."
     },
     {
@@ -139,7 +139,7 @@
         "type": [
             "Insecte"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/736.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
         "description": "Larve active, creuse d'un coup de pince précis."
     },
     {
@@ -149,7 +149,7 @@
             "Insecte",
             "Électrik"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/737.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
         "description": "Stocke de l'énergie pour électrifier ses attaques."
     },
     {
@@ -159,7 +159,7 @@
             "Insecte",
             "Électrik"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/738.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
         "description": "Insecte imposant au dard puissant chargé d'électricité."
     },
     {
@@ -168,7 +168,7 @@
         "type": [
             "Combat"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/739.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
         "description": "Crabe combattant, redoutable dans les arènes de boxe."
     },
     {
@@ -178,7 +178,7 @@
             "Combat",
             "Glace"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/740.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
         "description": "Crabe costaud couvert de neige, frappe avec ses coups glacés."
     },
     {
@@ -188,7 +188,7 @@
             "Psy",
             "Vol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/741.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
         "description": "Danseuse gracieuse capable de psioniquement envoûter son adversaire."
     },
     {
@@ -198,7 +198,7 @@
             "Insecte",
             "Fée"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/742.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
         "description": "Minuscule et doux, il se faufile sans être vu."
     },
     {
@@ -208,7 +208,7 @@
             "Insecte",
             "Fée"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/743.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
         "description": "Charmant, il déploie ses ailes pour éblouir les ennemis."
     },
     {
@@ -217,7 +217,7 @@
         "type": [
             "Roche"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/744.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
         "description": "Chiot courageux qui patrouille les falaises rocheuses."
     },
     {
@@ -226,7 +226,7 @@
         "type": [
             "Roche"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/745.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
         "description": "Loup agile des rochers, rapide et déterminé."
     },
     {
@@ -235,7 +235,7 @@
         "type": [
             "Eau"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/746.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
         "description": "Petit poisson froussard, souvent le premier à fuir."
     },
     {
@@ -245,7 +245,7 @@
             "Poison",
             "Eau"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/747.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
         "description": "Étoile de mer vorace, elle se camoufle dans les fonds marins."
     },
     {
@@ -255,7 +255,7 @@
             "Poison",
             "Eau"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/748.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
         "description": "Version évoluée, encore plus redoutable et rapide sous l'eau."
     },
     {
@@ -264,7 +264,7 @@
         "type": [
             "Sol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/749.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
         "description": "Âne solide, parfait pour les trajets dans les zones boueuses."
     },
     {
@@ -273,7 +273,7 @@
         "type": [
             "Sol"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/750.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
         "description": "Puissant cheval de bât, supporte de lourdes charges."
     },
     {
@@ -283,7 +283,7 @@
             "Eau",
             "Insecte"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/751.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
         "description": "Petite araignée aquatique créant des bulles protectrices."
     },
     {
@@ -293,7 +293,7 @@
             "Eau",
             "Insecte"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/752.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
         "description": "Grande bulle ambulante, elle piège ses ennemis dans son dôme aqueux."
     },
     {
@@ -302,7 +302,7 @@
         "type": [
             "Plante"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/753.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
         "description": "Petite mante, utilise son camouflage pour surprendre."
     },
     {
@@ -311,7 +311,7 @@
         "type": [
             "Plante"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/754.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
         "description": "Mante florale gracieuse, se déplace avec élégance."
     },
     {
@@ -321,7 +321,7 @@
             "Plante",
             "Fée"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/755.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
         "description": "Génère des spores lumineuses pour endormir ses ennemis."
     },
     {
@@ -331,7 +331,7 @@
             "Plante",
             "Fée"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/756.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
         "description": "Champignon lumineux, guide les voyageurs dans la nuit."
     },
     {
@@ -341,7 +341,7 @@
             "Poison",
             "Feu"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/757.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
         "description": "Toxilézard venimeux, crache du poison brûlant."
     },
     {
@@ -351,7 +351,7 @@
             "Poison",
             "Feu"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/758.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
         "description": "Échappe salamandre empoisonnée, dégage une chaleur toxique."
     },
     {
@@ -361,7 +361,7 @@
             "Normal",
             "Combat"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/759.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
         "description": "Ourson agile, capable de coups puissants malgré sa taille."
     },
     {
@@ -371,7 +371,7 @@
             "Normal",
             "Combat"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/760.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
         "description": "Gros ours robuste, défense solide et attaque redoutable."
     },
     {
@@ -380,7 +380,7 @@
         "type": [
             "Plante"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/761.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
         "description": "Fruit coquin et croquant, attire ses proies avec son parfum."
     },
     {
@@ -389,7 +389,7 @@
         "type": [
             "Plante"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/762.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
         "description": "Plante douce et candide, diffuse un parfum sucré apaisant."
     },
     {
@@ -398,7 +398,7 @@
         "type": [
             "Plante"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/763.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
         "description": "Reine des fruits, son nectar réconforte ceux autour d'elle."
     },
     {
@@ -407,7 +407,7 @@
         "type": [
             "Fée"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/764.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
         "description": "Petite guirlande vivante, sa présence rassérène."
     },
     {
@@ -417,7 +417,7 @@
             "Normal",
             "Psy"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/765.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
         "description": "Sage orang-outan, maîtrise des pouvoirs psychiques étonnants."
     },
     {
@@ -426,7 +426,7 @@
         "type": [
             "Combat"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/766.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
         "description": "Macaque athlétique, attaque avec une puissante coordination."
     },
     {
@@ -436,7 +436,7 @@
             "Acier",
             "Électrik"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/777.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
         "description": "Petite boule piquante, libère de l'électricité pour repousser ses ennemis."
     },
     {
@@ -446,7 +446,7 @@
             "Spectre",
             "Fée"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/778.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
         "description": "Pokémon mystérieux qui imite l'apparence pour se protéger."
     },
     {
@@ -456,7 +456,7 @@
             "Eau",
             "Psy"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/779.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
         "description": "Requin mental, manipule l'eau avec ses pensées."
     },
     {
@@ -466,7 +466,7 @@
             "Normal",
             "Dragon"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/780.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
         "description": "Dragon paisible, il émet une aura douce malgré sa taille."
     },
     {
@@ -476,7 +476,7 @@
             "Plante",
             "Spectre"
         ],
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/781.png",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
         "description": "Étrange gouvernail spectral doué d'attaques de plantes fantomatiques."
     }
 ]
