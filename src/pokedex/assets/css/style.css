@@ -1,0 +1,20 @@
+body {
+    /* background: #00D4FF; */
+    background-image: url(../img/backgroundpoke.jpeg);
+}
+
+
+.card {
+    border-radius: 1rem;
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+    background-color: #fffef9;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: #cfa1a1;
+    background: linear-gradient(181deg, rgba(207, 161, 161, 1) 0%, rgba(252, 176, 69, 1) 100%);
+
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.15);
+}
