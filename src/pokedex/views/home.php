@@ -27,7 +27,7 @@
 
 
         <div class="container my-5 ">
-            <div class="row row-cols-lg-4 g-4 justify-content-center">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 justify-content-center">
                 <?php
                 foreach ($tousLesPokemons as $item) { ?>
                     <div class="col d-flex">
