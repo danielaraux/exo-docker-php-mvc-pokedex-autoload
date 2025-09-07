@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 722,
         "name": "Brindibou",
         "type": [
             "Plante",
@@ -10,7 +10,7 @@
         "description": "Un oiseau calme qui recueille l'énergie du soleil pour remettre ses plumes en état."
     },
     {
-        "id": 2,
+        "id": 723,
         "name": "Efflèche",
         "type": [
             "Plante",
@@ -20,7 +20,7 @@
         "description": "Il soigne ses plumes avec fierté et attaque en silence."
     },
     {
-        "id": 3,
+        "id": 724,
         "name": "Archéduc",
         "type": [
             "Plante",
@@ -30,7 +30,7 @@
         "description": "Rapace mystérieux capable de passer inaperçu dans les ombres."
     },
     {
-        "id": 4,
+        "id": 725,
         "name": "Flamiaou",
         "type": [
             "Feu"
@@ -39,7 +39,7 @@
         "description": "Petit félin espiègle dont la queue s'enflamme en cas d'excitation."
     },
     {
-        "id": 5,
+        "id": 726,
         "name": "Matoufeu",
         "type": [
             "Feu"
@@ -48,7 +48,7 @@
         "description": "Réfléchi et mûr, il concentre son feu pour des attaques puissantes."
     },
     {
-        "id": 6,
+        "id": 727,
         "name": "Félinferno",
         "type": [
             "Feu",
@@ -58,7 +58,7 @@
         "description": "Guerrier flamboyant capable de mêler feu et ombres."
     },
     {
-        "id": 7,
+        "id": 728,
         "name": "Otaquin",
         "type": [
             "Eau"
@@ -67,7 +67,7 @@
         "description": "Otaria joyeuse, toujours prête à jouer dans l'eau."
     },
     {
-        "id": 8,
+        "id": 729,
         "name": "Otarlette",
         "type": [
             "Eau"
@@ -76,7 +76,7 @@
         "description": "Gracieuse, elle aime chanter en nageant."
     },
     {
-        "id": 9,
+        "id": 730,
         "name": "Oratoria",
         "type": [
             "Eau",
@@ -86,7 +86,7 @@
         "description": "Séduisante, elle charme ses adversaires avec sa voix envoûtante."
     },
     {
-        "id": 10,
+        "id": 731,
         "name": "Picassaut",
         "type": [
             "Normal",
@@ -96,7 +96,7 @@
         "description": "Curieux et agile, toujours en quête d'un insecte à attraper."
     },
     {
-        "id": 11,
+        "id": 732,
         "name": "Piclairon",
         "type": [
             "Normal",
@@ -106,7 +106,7 @@
         "description": "Plus robuste, il attaque en frappant avec ses plumes."
     },
     {
-        "id": 12,
+        "id": 733,
         "name": "Bazoucan",
         "type": [
             "Normal",
@@ -116,7 +116,7 @@
         "description": "Oiseau puissant dont le cri résonne à grande distance."
     },
     {
-        "id": 13,
+        "id": 734,
         "name": "Manglouton",
         "type": [
             "Normal"
@@ -125,7 +125,7 @@
         "description": "Petit mais glouton, toujours à la recherche de nourriture."
     },
     {
-        "id": 14,
+        "id": 735,
         "name": "Argouste",
         "type": [
             "Normal"
@@ -134,7 +134,7 @@
         "description": "Agile fouisseur, excellent pour piéger ses proies au sol."
     },
     {
-        "id": 15,
+        "id": 736,
         "name": "Larvibule",
         "type": [
             "Insecte"
@@ -143,7 +143,7 @@
         "description": "Larve active, creuse d'un coup de pince précis."
     },
     {
-        "id": 16,
+        "id": 737,
         "name": "Chrysapile",
         "type": [
             "Insecte",
@@ -153,7 +153,7 @@
         "description": "Stocke de l'énergie pour électrifier ses attaques."
     },
     {
-        "id": 17,
+        "id": 738,
         "name": "Lucanon",
         "type": [
             "Insecte",
@@ -163,7 +163,7 @@
         "description": "Insecte imposant au dard puissant chargé d'électricité."
     },
     {
-        "id": 18,
+        "id": 739,
         "name": "Crabagarre",
         "type": [
             "Combat"
@@ -172,7 +172,7 @@
         "description": "Crabe combattant, redoutable dans les arènes de boxe."
     },
     {
-        "id": 19,
+        "id": 740,
         "name": "Crabominable",
         "type": [
             "Combat",
@@ -182,7 +182,7 @@
         "description": "Crabe costaud couvert de neige, frappe avec ses coups glacés."
     },
     {
-        "id": 20,
+        "id": 741,
         "name": "Plumeline",
         "type": [
             "Psy",
@@ -192,7 +192,7 @@
         "description": "Danseuse gracieuse capable de psioniquement envoûter son adversaire."
     },
     {
-        "id": 21,
+        "id": 742,
         "name": "Bombydou",
         "type": [
             "Insecte",
@@ -202,7 +202,7 @@
         "description": "Minuscule et doux, il se faufile sans être vu."
     },
     {
-        "id": 22,
+        "id": 743,
         "name": "Rubombelle",
         "type": [
             "Insecte",
@@ -212,7 +212,7 @@
         "description": "Charmant, il déploie ses ailes pour éblouir les ennemis."
     },
     {
-        "id": 23,
+        "id": 744,
         "name": "Rocabot",
         "type": [
             "Roche"
@@ -221,7 +221,7 @@
         "description": "Chiot courageux qui patrouille les falaises rocheuses."
     },
     {
-        "id": 24,
+        "id": 745,
         "name": "Lougaroc",
         "type": [
             "Roche"
@@ -230,7 +230,7 @@
         "description": "Loup agile des rochers, rapide et déterminé."
     },
     {
-        "id": 25,
+        "id": 746,
         "name": "Froussardine",
         "type": [
             "Eau"
@@ -239,7 +239,7 @@
         "description": "Petit poisson froussard, souvent le premier à fuir."
     },
     {
-        "id": 26,
+        "id": 747,
         "name": "Vorastérie",
         "type": [
             "Poison",
@@ -249,7 +249,7 @@
         "description": "Étoile de mer vorace, elle se camoufle dans les fonds marins."
     },
     {
-        "id": 27,
+        "id": 748,
         "name": "Prédastérie",
         "type": [
             "Poison",
@@ -259,7 +259,7 @@
         "description": "Version évoluée, encore plus redoutable et rapide sous l'eau."
     },
     {
-        "id": 28,
+        "id": 749,
         "name": "Tiboudet",
         "type": [
             "Sol"
@@ -268,7 +268,7 @@
         "description": "Âne solide, parfait pour les trajets dans les zones boueuses."
     },
     {
-        "id": 29,
+        "id": 750,
         "name": "Bourrinos",
         "type": [
             "Sol"
@@ -277,7 +277,7 @@
         "description": "Puissant cheval de bât, supporte de lourdes charges."
     },
     {
-        "id": 30,
+        "id": 751,
         "name": "Araqua",
         "type": [
             "Eau",
@@ -287,7 +287,7 @@
         "description": "Petite araignée aquatique créant des bulles protectrices."
     },
     {
-        "id": 31,
+        "id": 752,
         "name": "Tarenbulle",
         "type": [
             "Eau",
@@ -297,7 +297,7 @@
         "description": "Grande bulle ambulante, elle piège ses ennemis dans son dôme aqueux."
     },
     {
-        "id": 32,
+        "id": 753,
         "name": "Mimantis",
         "type": [
             "Plante"
@@ -306,7 +306,7 @@
         "description": "Petite mante, utilise son camouflage pour surprendre."
     },
     {
-        "id": 33,
+        "id": 754,
         "name": "Floramantis",
         "type": [
             "Plante"
@@ -315,7 +315,7 @@
         "description": "Mante florale gracieuse, se déplace avec élégance."
     },
     {
-        "id": 34,
+        "id": 755,
         "name": "Spododo",
         "type": [
             "Plante",
@@ -325,7 +325,7 @@
         "description": "Génère des spores lumineuses pour endormir ses ennemis."
     },
     {
-        "id": 35,
+        "id": 756,
         "name": "Lampignon",
         "type": [
             "Plante",
@@ -335,7 +335,7 @@
         "description": "Champignon lumineux, guide les voyageurs dans la nuit."
     },
     {
-        "id": 36,
+        "id": 757,
         "name": "Tritox",
         "type": [
             "Poison",
@@ -345,7 +345,7 @@
         "description": "Toxilézard venimeux, crache du poison brûlant."
     },
     {
-        "id": 37,
+        "id": 758,
         "name": "Malamandre",
         "type": [
             "Poison",
@@ -355,7 +355,7 @@
         "description": "Échappe salamandre empoisonnée, dégage une chaleur toxique."
     },
     {
-        "id": 38,
+        "id": 759,
         "name": "Nounourson",
         "type": [
             "Normal",
@@ -365,7 +365,7 @@
         "description": "Ourson agile, capable de coups puissants malgré sa taille."
     },
     {
-        "id": 39,
+        "id": 760,
         "name": "Chelours",
         "type": [
             "Normal",
@@ -375,7 +375,7 @@
         "description": "Gros ours robuste, défense solide et attaque redoutable."
     },
     {
-        "id": 40,
+        "id": 761,
         "name": "Croquine",
         "type": [
             "Plante"
@@ -384,7 +384,7 @@
         "description": "Fruit coquin et croquant, attire ses proies avec son parfum."
     },
     {
-        "id": 41,
+        "id": 762,
         "name": "Candine",
         "type": [
             "Plante"
@@ -393,7 +393,7 @@
         "description": "Plante douce et candide, diffuse un parfum sucré apaisant."
     },
     {
-        "id": 42,
+        "id": 763,
         "name": "Sucreine",
         "type": [
             "Plante"
@@ -402,7 +402,7 @@
         "description": "Reine des fruits, son nectar réconforte ceux autour d'elle."
     },
     {
-        "id": 43,
+        "id": 764,
         "name": "Guérilande",
         "type": [
             "Fée"
@@ -411,7 +411,7 @@
         "description": "Petite guirlande vivante, sa présence rassérène."
     },
     {
-        "id": 44,
+        "id": 765,
         "name": "Gouroutan",
         "type": [
             "Normal",
@@ -421,7 +421,7 @@
         "description": "Sage orang-outan, maîtrise des pouvoirs psychiques étonnants."
     },
     {
-        "id": 45,
+        "id": 766,
         "name": "Quartermac",
         "type": [
             "Combat"
@@ -430,7 +430,7 @@
         "description": "Macaque athlétique, attaque avec une puissante coordination."
     },
     {
-        "id": 46,
+        "id": 777,
         "name": "Togedemaru",
         "type": [
             "Acier",
@@ -440,7 +440,7 @@
         "description": "Petite boule piquante, libère de l'électricité pour repousser ses ennemis."
     },
     {
-        "id": 47,
+        "id": 778,
         "name": "Mimiqui",
         "type": [
             "Spectre",
@@ -450,7 +450,7 @@
         "description": "Pokémon mystérieux qui imite l'apparence pour se protéger."
     },
     {
-        "id": 48,
+        "id": 779,
         "name": "Denticrisse",
         "type": [
             "Eau",
@@ -460,7 +460,7 @@
         "description": "Requin mental, manipule l'eau avec ses pensées."
     },
     {
-        "id": 49,
+        "id": 780,
         "name": "Drampa",
         "type": [
             "Normal",
@@ -470,7 +470,7 @@
         "description": "Dragon paisible, il émet une aura douce malgré sa taille."
     },
     {
-        "id": 50,
+        "id": 781,
         "name": "Sinistrail",
         "type": [
             "Plante",

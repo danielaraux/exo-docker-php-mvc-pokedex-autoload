@@ -1,35 +1,25 @@
 <?php
 
-// exemple pour afficher home
-// on inclut le controller respectif : HomeController
-require_once __DIR__ . '/pokedex/controllers/HomeController.php';
-require_once __DIR__ . '/pokedex/controllers/DetailsController.php';
-
-$controller = new HomeController(); // Je crée un objet Controller
-$controller->index(); // On utilise la méthode index
-
 $url = $_GET['url'] ?? 'home'; // on défini la variable qui va récupérer l'url de l'index sinon, pointer sur home
-
 $arrayUrl = explode('/', $url); // je transforme l'url en tableau
+$page = $arrayUrl[0] ?? 'home'; // je récupère l'index pour la page
+$id = $arrayUrl[1] ?? null; // je récupère l'id ou j'affiche null
 
-$page = $arrayUrl[0]; // je récupère l'index pour la page
+// var_dump($page, $id);
 
-$id = $arrayUrl[1]; // je récupère l'id
+switch ($page) {
+        case 'home':
+                require_once __DIR__ . '/pokedex/controllers/HomeController.php';
+                $objectController = new HomeController(); // Je crée un objet qui va utiliser la class HomeController
+                $objectController->index(); // L'objet va executer la méthode index pour afficher le contenu
+                break; // Le break sert a arrêter les actions ensuite
+        case 'details':
+                require_once __DIR__ . '/pokedex/controllers/DetailsController.php';
+                $objectController = new DetailsController(); // Je crée un objet qui va utiliser la class detailsController
+                $objectController->show($id); // L'objet va executer la méthode show($id) pour afficher le contenu du pokémon en question
+                break;
 
-// switch ($page) {
-//     case 'home':
-//         require_once __DIR__ . '/pokedex/controllers/HomeController.php'
-//         $objController = 
-//         break;
-//     case 'details':
-//         require_once __DIR__ . '/pokedex/controllers/DetailsController.php'
-//         $objController = 
-//         break;
-
-
-//     default:
-        //code block
-// }
-
-
-// Config router a faire, liens des sprites à rechanger avec ia, tester les liens
+        default:
+                require_once __DIR__ . '/pokedex/views/page404.php'; // Je redirige vers ma page error404 si l'url n'est pas home ou details
+                break;
+}

@@ -10,7 +10,7 @@ class PokemonModel
         return $pokemonsList;                                           // Je retourne la variable avec tous les pokémons.
     }
 
-    public function getById($id) // fonction pour retourner le pokémon par ID
+    public function getById(int $id) // fonction pour retourner le pokémon par ID
     {
         $pokemonJson = file_get_contents("pokedex/data/pokemons.json");
         $pokemonsList = json_decode($pokemonJson, true);

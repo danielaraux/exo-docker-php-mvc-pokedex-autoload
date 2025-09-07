@@ -1,20 +1,140 @@
 body {
-    /* background: #00D4FF; */
+    /* background: beige; */
     background-image: url(../img/backgroundpoke.jpeg);
 }
 
 
 .card {
+    border: black;
     border-radius: 1rem;
     box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
-    background-color: #fffef9;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     background: #cfa1a1;
     background: linear-gradient(181deg, rgba(207, 161, 161, 1) 0%, rgba(252, 176, 69, 1) 100%);
+    width: 100%;
 
+    @media (max-width:414px) {
+        width: 75%;
+    }
 }
 
-.card:hover {
+.card-container {
+    display: flex;
+    width: 100%;
+
+    @media(max-width:414px) {
+        display: block;
+    }
+}
+
+.card-bordure {
+    width: 100%;
+}
+
+.cards:hover {
     transform: translateY(-8px);
     box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.15);
+}
+
+.container-description {
+    display: flex;
+    width: 75%;
+
+    @media (max-width:414px) {
+        display: block;
+        width: 80%;
+    }
+}
+
+.badge {
+    display: inline-block;
+    padding: 5px 12px;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: #fff;
+    margin: 2px;
+    text-transform: capitalize;
+}
+
+/* Couleurs selon le type */
+.type-Feu {
+    background-color: #ff4422;
+}
+
+.type-Normal {
+    background-color: lightgray;
+    color: black;
+}
+
+.type-Eau {
+    background-color: #3399ff;
+}
+
+.type-Plante {
+    background-color: #33cc33;
+}
+
+.type-Électrik {
+    background-color: #ffcc33;
+    color: #000;
+}
+
+.type-Glace {
+    background-color: #66ccff;
+    color: #000;
+}
+
+.type-Combat {
+    background-color: #aa5544;
+}
+
+.type-Poison {
+    background-color: #9933cc;
+}
+
+.type-Sol {
+    background-color: #cc9933;
+    color: #000;
+}
+
+.type-Vol {
+    background-color: #66ccff;
+    color: #000;
+}
+
+.type-Psy {
+    background-color: #ff66cc;
+}
+
+.type-Insecte {
+    background-color: #99cc33;
+    color: #000;
+}
+
+.type-Roche {
+    background-color: #aa9966;
+    color: #000;
+}
+
+.type-Spectre {
+    background-color: #6666cc;
+}
+
+.type-Dragon {
+    background-color: #6633ff;
+}
+
+.type-Ténèbres {
+    background-color: #555555;
+}
+
+.type-Acier {
+    background-color: #999999;
+    color: #000;
+}
+
+.type-Fée {
+    background-color: #ff99cc;
+    color: #000;
 }
