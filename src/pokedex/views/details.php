@@ -1,8 +1,3 @@
-<?php
-
-
-?>
-
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -50,7 +45,7 @@
                     <div>
                         <p class="my-2">Description :
                         </p>
-                        <p class="fs-2"><?= $showPokemon['description'] ?></p>
+                        <p class="fs-5"><?= $showPokemon['description'] ?></p>
                     </div>
                 </div>
             </div>
