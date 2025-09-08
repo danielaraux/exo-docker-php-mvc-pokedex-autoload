@@ -1,7 +1,7 @@
 services:
   web:
     image: php:8.2-apache
-    container_name: php-apache-php-mvc-pokedex
+    container_name: php-apache-php-mvc-autoload
     build:
       context: .
       dockerfile: Dockerfile
@@ -23,7 +23,7 @@ services:
     build:
       context: .
       dockerfile: docker/Dockerfile.mysql
-    container_name: mysql-db-php-mvc-pokedex
+    container_name: mysql-db-php-mvc-autoload
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
@@ -38,7 +38,7 @@ services:
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
-    container_name: phpmyadmin-php-mvc-pokedex
+    container_name: phpmyadmin-php-mvc-autoload
     depends_on:
       - db
     ports:
