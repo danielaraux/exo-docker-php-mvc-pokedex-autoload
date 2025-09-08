@@ -13,8 +13,8 @@ body {
     background: linear-gradient(181deg, rgba(207, 161, 161, 1) 0%, rgba(252, 176, 69, 1) 100%);
     width: 100%;
 
-    @media (max-width:414px) {
-        width: 75%;
+    @media (max-width:430px) {
+        width: 80%;
     }
 }
 
@@ -22,7 +22,7 @@ body {
     display: flex;
     width: 100%;
 
-    @media(max-width:414px) {
+    @media(max-width:430px) {
         display: block;
         width: 100%;
     }

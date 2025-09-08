@@ -27,11 +27,11 @@
 
 
         <div class="container my-5 text-center">
-            <h2 class="text-light"><b>Error 404 - Ressource non trouvée</b></h2>
+            <h2 class="text-light rounded bg-dark p-2"><b>Error 404 - Ressource non trouvée</b></h2>
         </div>
 
         <div class="d-flex">
-            <a href="index.php?url=home" class="btn btn-primary mx-auto">Revenir à l'accueil</a>
+            <a href="../../index.php?url=home" class="btn btn-primary mx-auto">Revenir à l'accueil</a>
         </div>
 
 

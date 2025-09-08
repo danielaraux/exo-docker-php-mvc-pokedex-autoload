@@ -3,7 +3,17 @@
 $url = $_GET['url'] ?? 'home'; // on défini la variable qui va récupérer l'url de l'index sinon, pointer sur home
 $arrayUrl = explode('/', $url); // je transforme l'url en tableau
 $page = $arrayUrl[0] ?? 'home'; // je récupère l'index pour la page
+
+
 $id = $arrayUrl[1] ?? null; // je récupère l'id ou j'affiche null
+
+
+// if ($id == $arrayUrl[1]) {
+//         return $arrayUrl[1];
+// } else {
+//         header("Location: ../views/page404.php");
+// }
+
 
 // var_dump($page, $id);
 
