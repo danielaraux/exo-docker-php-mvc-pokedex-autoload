@@ -1,7 +1,7 @@
 <?php
 
 // Nom du dossier virtuel "namespace" Models pour le modèle
-namespace Models;
+namespace App\Models;
 
 class PokemonModel
 {

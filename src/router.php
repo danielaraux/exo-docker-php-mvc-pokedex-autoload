@@ -1,8 +1,8 @@
 <?php
 
 // On va chercher les namespace qui pointent sur les classes qu'on veut utiliser. (Plus besoin d'utiliser les require_once sur les case des switch).
-use Controllers\HomeController;
-use Controllers\DetailsController;
+use App\Controllers\HomeController;
+use App\Controllers\DetailsController;
 
 
 $url = $_GET['url'] ?? 'home'; // on défini la variable qui va récupérer l'url de l'index sinon, pointer sur home
@@ -25,6 +25,6 @@ switch ($page) {
                 break;
 
         default:
-                require_once __DIR__ . '/views/page404.php'; // Je redirige vers ma page error404 si l'url n'est pas home ou details
+                require_once __DIR__ . '/src/views/page404.php'; // Je redirige vers ma page error404 si l'url n'est pas home ou details
                 break;
 }

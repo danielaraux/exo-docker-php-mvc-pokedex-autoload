@@ -1,10 +1,10 @@
 <?php
 
 // Nom du dossier virtuel "namespace" pour les Controllers
-namespace Controllers;
+namespace App\Controllers;
 
 // On utilise le dossier virtuel namespace "Models" qui pointe sur le PokemonModel
-use Models\PokemonModel;
+use App\Models\PokemonModel;
 
 class DetailsController
 {
@@ -17,7 +17,7 @@ class DetailsController
 
         // Condition pour aller sur la page 404 si on entre un numéro de pokemon qui n'existe pas sur le json (qui retourne une valeur null en gros)
         if ($PokemonModel->getById($id) == null) {
-            header("Location: ../../views/page404.php");
+            header("Location: ../../src/views/page404.php");
         }
 
         require_once __DIR__ . '/../views/details.php'; // On appelle la vue détails
